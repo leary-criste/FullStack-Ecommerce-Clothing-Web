@@ -21,4 +21,4 @@ export const getServerSideProps = async () => {
     }
 }
 
-export default kids
+export default kids
